@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "99g9LrtD+nYiO/+rL+fECQeO6otm+cY6etxUpj9VKESazcbr+wd9FYLqnAqvt+5fnQAgdrFqMLLi5AgGaWAoyw==",
+  "success": true,
+  "projectFilePath": "/Users/1lexaa/Downloads/Week4-master/IoC/IoC.csproj",
+  "expectedPackageFiles": [
+    "/Users/1lexaa/.nuget/packages/commonservicelocator.netcore/1.3.1/commonservicelocator.netcore.1.3.1.nupkg.sha512",
+    "/Users/1lexaa/.nuget/packages/unity.netcore/4.0.3/unity.netcore.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
