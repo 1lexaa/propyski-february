@@ -20,12 +20,19 @@ namespace Serialize
         public Dictionary<String, String> Dict { get; set; }
 
         public Data()
+
+
         {
             Dict = new Dictionary<string, string>();
             Dict.Add("key1", "value1");
             Dict.Add("key2", "value2");
             Dict.Add("key3", "value3");
         }
+
+
+
+
+
 
         public override string ToString()
         {
